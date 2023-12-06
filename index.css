@@ -1,0 +1,46 @@
+.body {
+    margin: 0;
+}
+
+.header {
+    width: 1600px;
+    height: 200px;
+    background:#ffd941;
+    display: flex;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    margin-top: 62px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section {
+    background-image: url(./котик\ 1.png);
+    width: 1600px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    width: 1600px;
+    height: 60px; 
+    background: #f2f68a;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin:0;
+    text-align: center;
+}
